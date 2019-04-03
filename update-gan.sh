@@ -12,7 +12,7 @@ echo ""
 echo "Update Selesai Gan :)"
 sleep 2
 clear
-cd tools
+cd iseng
 echo "Akan Kembali Dalam Waktu 1 detik"
 echo ""
 sleep 2
