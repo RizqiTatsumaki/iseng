@@ -4,7 +4,7 @@ echo "Jangan Keluar Dari Termux, Update Sedang Berjalan:)"
 sleep 2
 cd ../
 sleep 1
-rm -rf home
+rm -rf iseng
 git clone https://github.com/RizqiTatsumaki/iseng
 sleep 2
 clear
