@@ -17,4 +17,7 @@ cd iseng
 echo "Akan Kembali Dalam Waktu 1 detik"
 echo ""
 sleep 2
+cd
+ls
+cd iseng
 python2 home.py
